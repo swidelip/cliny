@@ -30,6 +30,10 @@ Optional arguments:
 ```
 cliny.exe
 ```
+* Show help
+```
+cliny.exe --help
+```
 * Launch for file
 ```
 cliny.exe --type file
