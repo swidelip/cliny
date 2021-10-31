@@ -38,7 +38,7 @@ cliny.exe --type file
 ```
 cliny.exe --path C:\test\file.txt
 ```
-* Launch with method
+* Launch with shredding method
 ```
 cliny.exe --method random
 ```
